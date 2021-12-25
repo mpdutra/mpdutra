@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mpdutra, a young brazilian programmer living in Lisbon now. 
+- 👀 I’m 26 years old and interested in learn and contribute in other projects (mostly JS and Python).
+- 🌱 I’m currently learning Kotlin for mobile development and increasing my Python knowledge.
+- 📫 You can find me at mpdutra@outlook.com :)
